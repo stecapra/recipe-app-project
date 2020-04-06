@@ -144,3 +144,6 @@ static
 
 # CUSTOM
 .DS_Store
+
+.idea/
+venv/
